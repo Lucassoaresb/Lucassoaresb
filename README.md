@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://github.com/Lucassoaresb">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Lucassoaresb&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucassoaresb&layout=compact&langs_count=7&theme=midnight-purplee"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucassoaresb&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Java" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
